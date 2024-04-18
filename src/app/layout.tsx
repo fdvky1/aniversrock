@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Anivers Minecraft Server",
   description: "Join our Minecraft server for an immersive and fun gaming experience. We offer a variety of game modes and unique features.",
   openGraph: {
-    images: "/images/server-image.jpg",
+    images: "https://raw.githubusercontent.com/fdvky1/aniversrock/main/public/images/server-image.jpg",
     title: "Anivers Minecraft Server",
     description: "Join our Minecraft server for an immersive and fun gaming experience. We offer a variety of game modes and unique features.",
   }
